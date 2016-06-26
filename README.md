@@ -7,6 +7,8 @@ clone the repo: https://github.com/ksamirw3/api-auth.git
 
 npm install
 
+npm start
+
 login endpoint
 
 POST localhost:3000/users/login
